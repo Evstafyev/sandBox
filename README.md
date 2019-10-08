@@ -1,8 +1,11 @@
 Sandbox
 ========================
-This is simple readme file for test purposes thich may help to study github readme files markdonw.
+This is simple readme file for test purposes thich may help to study github readme files markdown.
 
 Tasks:
 1. Task1
 2. Task2
 3. Task3
+
+  code string 1
+  cod string 2
