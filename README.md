@@ -7,5 +7,7 @@ Tasks:
 2. Task2
 3. Task3
 
-if code string 1
-code string 2
+Another list:
+* note 1
+* note 2
+* note 3
